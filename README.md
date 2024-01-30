@@ -1,4 +1,4 @@
-# Overview this is a weatherForecast app utilizing open weather API to get weather data for the week. Its built using streamlit and graphs are made with plotly.
+## Overview this is a weatherForecast app utilizing open weather API to get weather data for the week. Its built using streamlit and graphs are made with plotly
 
 
 
